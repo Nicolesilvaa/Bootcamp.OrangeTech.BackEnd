@@ -4,7 +4,7 @@ public class parImpar{
 
     public static boolean parImpar(int numero){
         return(numero % 2 == 0);
-        
+
     }
 
     public static void main( String []args){
@@ -19,5 +19,4 @@ public class parImpar{
             System.out.println("O número é ímpar");
         
     }
-
 }
