@@ -9,14 +9,18 @@ public class parImpar{
 
     public static void main( String []args){
 
-        int numero = 5;
-        boolean resultado = parImpar(numero);
+        int numero = 8;
 
-        if(parImpar(numero) == true)
-            System.out.println("O número é par");
+        // if(parImpar(numero) == true)
+        //     System.out.println("O número é par");
 
-        else
-            System.out.println("O número é ímpar");
+        // else
+        //     System.out.println("O número é ímpar");
         
+        // Refazendo a condicional utilizando operador ternário
+
+      String resultado =  parImpar(numero)? "O número é par" : "O número é ímpar";
+      System.out.println(resultado);
+    
     }
 }
