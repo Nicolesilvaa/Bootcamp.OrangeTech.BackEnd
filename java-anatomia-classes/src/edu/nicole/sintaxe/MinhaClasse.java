@@ -1,3 +1,8 @@
+ /** @author Nicole Silva
+  * @since 04/01/2023
+  
+ */
+
 package edu.nicole.sintaxe;
 
 public class MinhaClasse{
