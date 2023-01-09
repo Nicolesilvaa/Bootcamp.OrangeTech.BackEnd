@@ -1,6 +1,6 @@
 # Bootcamp OrangeTech BackEnd: DIO & Banco Inter :orange_heart:
 
-    - Repósitório criado para registrar meus progressos no bootcamp Orange Tech da DIO. 
+    - Repósitório criado para registrar meu progresso no bootcamp Orange Tech da DIO. 
     
 ## Desafios de Código :running:
 
