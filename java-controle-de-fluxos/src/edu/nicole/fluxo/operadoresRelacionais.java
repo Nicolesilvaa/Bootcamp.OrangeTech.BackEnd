@@ -6,7 +6,7 @@ package edu.nicole.fluxo;
 
 public class operadoresRelacionais{
 
-    /*Este método tem como finalida praticar a utilização de operadores relacionais. */
+    /*Este método tem como finalidade praticar a utilização de operadores relacionais. */
 
     public static void main(String[] args) {
     
