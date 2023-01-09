@@ -7,7 +7,7 @@ package edu.nicole.sintaxe;
 
 public class parImpar{
 
-    public static boolean parImpar(int numero){
+    public static boolean ParImpar(int numero){
         return(numero % 2 == 0);
 
     }
