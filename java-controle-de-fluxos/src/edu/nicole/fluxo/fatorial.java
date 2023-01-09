@@ -6,7 +6,9 @@ package edu.nicole.fluxo;
 import java.util.Scanner;
 
 public class fatorial{
-
+ 
+    /*Este método retorna o fatorial de um número */
+ 
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
