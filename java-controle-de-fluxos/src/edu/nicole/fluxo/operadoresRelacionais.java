@@ -6,6 +6,8 @@ package edu.nicole.fluxo;
 
 public class operadoresRelacionais{
 
+    /*Este método tem como finalida praticar a utilização de operadores relacionais. */
+
     public static void main(String[] args) {
     
         int valor1 = 10;
@@ -21,7 +23,7 @@ public class operadoresRelacionais{
 
         System.out.println("\n A palavra 'casa' é igual a palavra 'caneta' ? \n");
         System.out.println(palavra1 == palavra2); //False
-        
+
         System.out.println("\n A palavra 'casa' é diferente da palavra 'caneta' ? ");
         System.out.println(palavra1 != palavra2); //True
        

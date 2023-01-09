@@ -7,6 +7,8 @@ package edu.nicole.sintaxe;
 
 public class parImpar{
 
+    /*Este método retorna a paridade de um número (não dinâmico) */
+
     public static boolean ParImpar(int numero){
         return(numero % 2 == 0);
 
