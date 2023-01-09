@@ -3,7 +3,7 @@ import  java.util.Scanner;
 
 public class consoantes{
 
-    /*Este método ler 6 caracteres e diz quaisconsoantes foram lidas*/
+    /*Este método ler 6 caracteres e diz quais consoantes foram lidas*/
 
     public static void main(String[] args) {
         
