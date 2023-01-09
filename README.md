@@ -8,7 +8,18 @@
 ## Primeiras Classes :space_invader:
 
 - [Hello World](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/hello-world/src/HelloWorld.java)
-- [Treinando Sintaxe - Minha Classe](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-anatomia-classes/src/edu/nicole/sintaxe/MinhaClasse.java)
-- [Treinando Sintaxe - Par ou Impar](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-anatomia-classes/src/edu/nicole/sintaxe/parImpar.java)
+
+- [Sintaxe - Minha Classe](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-anatomia-classes/src/edu/nicole/sintaxe/MinhaClasse.java)
+
+- [Sintaxe - Par ou Impar](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-anatomia-classes/src/edu/nicole/sintaxe/parImpar.java)
+
+- [Controle de Fluxo e Condicionais - Operadores Relacionais](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/operadoresRelacionais.java)
+
+- [Controle de Fluxo e Condicionais - Dia da Semana](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/diaDaSemana.java)
+
+- [Controle de Fluxo e Condicionais - Nome e Idade](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/nomeIdade.java)
+
+ - [Controle de Fluxo e Condicionais - Nota](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/nota.java)
+
 
 
