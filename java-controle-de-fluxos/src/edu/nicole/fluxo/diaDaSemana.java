@@ -5,7 +5,7 @@
 package edu.nicole.fluxo;
 import java.util.Scanner; 
 
-public class fluxoControle{
+public class diaDaSemana{
     
     public static void main(String[] args) {
 
@@ -14,6 +14,7 @@ public class fluxoControle{
         System.out.println("...............................");
         System.out.println("Descobrindo os dias da semana ");
         System.out.println("...............................\n");
+        
         System.out.println("Digite o dia da semana em questão: ");
         String diaSemana = entrada.next();
 
