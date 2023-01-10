@@ -1,8 +1,9 @@
- /** @author Nicole Silva
-  *  @since 09/01/2023
- */
-
 package edu.nicole.fluxo;
+
+/** @author Nicole Silva
+  *  @since 09/01/2023
+
+ */
 
 public class operadoresRelacionais{
 
