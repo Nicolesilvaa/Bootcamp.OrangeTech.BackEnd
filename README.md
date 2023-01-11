@@ -32,7 +32,7 @@
 - [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/lojinha-de-doces/src/edu/nicole/desafio4/lojinhaDeDoces.java)
 ***
 
-### Industria da multa : warning:
+### Industria da multa :warning:
 
 - [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/insdustria-da-multa/README.md)
 
