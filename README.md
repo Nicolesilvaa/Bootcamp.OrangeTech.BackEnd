@@ -4,6 +4,41 @@
     
 ## Desafios de Código :running:
 
+### Mesada do sobrinho  :money_with_wings:
+
+- [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/tree/main/desafios-codigo/mesada-do-sobrinho/README.md)
+
+- [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/mesada-do-sobrinho/src/edu/nicole/desafio1/mesadaDoSobrinho.java)
+***
+
+ ### Download de pacotes  :open_file_folder:
+
+- [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/download-de-pacotes/README.md)
+
+- [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/download-de-pacotes/src/edu/nicole/desafio2/downloadDePacotes.java)
+ ***
+ 
+ ### Leitura da Gertrudes :books:
+
+- [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/leitura-da-gertrudes/README.md)
+
+- [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/leitura-da-gertrudes/src/edu/nicole/desafio3/leituraDaGertrudes.java)
+***
+
+ ### Lojinha de doces :candy:
+
+- [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/lojinha-de-doces/README.md)
+
+- [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/lojinha-de-doces/src/edu/nicole/desafio4/lojinhaDeDoces.java)
+***
+
+### Industria da multa : warning:
+
+- [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/insdustria-da-multa/README.md)
+
+- [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/insdustria-da-multa/src/edu/nicole/desafio5/industriaDaMulta.java)
+***
+ 
 ***
 ## Primeiras Classes :space_invader:
 
