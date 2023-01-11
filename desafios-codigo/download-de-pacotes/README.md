@@ -1,18 +1,17 @@
-## Getting Started
+## Desafio: Download de pacotes
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Você foi contratado para criar um gerenciador de pacotes. Porém, o que restou para você fazer foi o contador de porcentagem de download dos pacotes. Mas como o espaço para essa informação ficou pequeno, a empresa optou por fazer uma escala de 10 – 1. Então a escala será 1 = 10%, 2 = 20%, 3 = 30% e etc.
+Para cada 10% de download, o programa deve printar, em sequência e sem espaços, uma barra “/”.
+### Entrada
 
-## Folder Structure
+A entrada será um número que representará a porcentagem
+### Saída
 
-The workspace contains two folders by default, where:
+A saída serão as barras sem espaços entre elas. 
+### Exemplo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Entrada | Saída
+------- | ------
+  1     | /
+  3     | ///
+  7     | ///////

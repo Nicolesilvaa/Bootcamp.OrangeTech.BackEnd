@@ -1,18 +1,16 @@
-## Getting Started
+## Desafio: Leitura da Gertrudes
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sua tia Gertrudes é uma leitora assídua. E ela gostaria de ter um aplicativo que dissesse para ela, de acordo com o número de páginas de um livro, quanto tempo ela levaria para ler lendo apenas 3 páginas por dia. Como você está aprendendo Java, você se disponibilizou para ajudá-la com esse desenvolvimento.
+### Entrada
 
-## Folder Structure
+A entrada será o número de páginas de um determinado livro.
+### Saída
 
-The workspace contains two folders by default, where:
+A saída deverá ser quanto tempo ela vai levar para ler esse livro.
+### Exemplo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Entrada | Saída
+------- | ------
+  30    | "10 dias"
+  15    | "5 dias"
+  90    | "30 dias"

@@ -1,18 +1,16 @@
-## Getting Started
+## Desafio: Lojinha de doces
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Uma lojinha de doces tem muitos clientes por ser ao lado de uma escola. Para aumentar as vendas o dono resolveu colocar uma máquina onde os clientes, principalmente as crianças que estão muito acostumadas com a tecnologia, poderiam colocar suas moedas e receber dois doces aleatórios. Cada 1 real irá render 2 doces aleatórios.
+### Entrada
 
-## Folder Structure
+A entrada será a quantidade de dinheiro que cada cliente, um por vez, possui.
+### Saída
 
-The workspace contains two folders by default, where:
+A saída deverá ser a quantidade de doces que cada cliente conseguiu obter. (sem as aspas)
+### Exemplo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Entrada | Saída
+------- | ------
+  10    |  "O cliente obteve 20 doces" 
+  20    |  "O cliente obteve 40 doces" 
+  40    |  "O cliente obteve 80 doces" 
