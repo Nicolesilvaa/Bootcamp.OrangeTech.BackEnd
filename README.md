@@ -64,5 +64,7 @@
 
 - [Controle de Fluxo e Condicionais - Operadores Relacionais](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/operadoresRelacionais.java)
 
+- [Métodos - Calculadora](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-metodos/src/edu/nicole/metodos/calculadora.java)
+
 
 
