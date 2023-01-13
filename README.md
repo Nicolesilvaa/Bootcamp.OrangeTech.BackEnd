@@ -39,7 +39,6 @@
 - [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/insdustria-da-multa/src/edu/nicole/desafio5/industriaDaMulta.java)
 ***
  
-***
 ## Primeiras Classes :space_invader:
 
 - [Hello World](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/hello-world/src/HelloWorld.java)
