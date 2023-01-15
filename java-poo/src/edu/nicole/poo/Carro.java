@@ -5,7 +5,7 @@ package edu.nicol.poo;
  * @since 13/01/2003
  */
 
-class carro{
+class Carro extends veiculos{
 
     //Atributos da classe carro
     String modelo;  
