@@ -2,7 +2,7 @@ package edu.nicol.poo;
 
 /**
  * @author Nicole Silva
- * @since 15
+ * @since 15/01/2023
  * 
  */
 
@@ -10,9 +10,11 @@ package edu.nicol.poo;
 
     public static void main(String[] args) {
         
-      Veiculos veiculo = new Veiculos(); //Criando noov objeto
+      Veiculos veiculo = new Veiculos(); //Criando novo objeto
 
-      Funcionario carro = new Carro(); // Fazendo upcast
-      
+      Veiculos carro = new Carro(); // Fazendo upcast
+
+      Veiculos carro = (Veiculos) new carro(); // Downcast
+
     }
  }
