@@ -8,5 +8,6 @@ package edu.nicole.poo;
 
  class Veiculos{
 
+    /*Classe criada para aplicação do conceito de herança */
 
  }

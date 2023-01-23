@@ -1,8 +1,10 @@
-package edu.nicol.poo;
+package edu.nicole.poo;
 
 /**
  * @author Nicole Silva
  * @since 13/01/2003
+ * 
+ * Aplicando conceitos de hernaça
  */
 
 class Carro extends veiculos{

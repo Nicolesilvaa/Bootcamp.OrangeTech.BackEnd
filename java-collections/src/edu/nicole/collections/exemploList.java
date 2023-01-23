@@ -3,6 +3,8 @@ package edu.nicole.collections;
 /**
  * @author Nicole Silva 
  * @since 19/01/2023
+ * 
+ * Manipulando lists 
  */
 
  import java.util.ArrayList;

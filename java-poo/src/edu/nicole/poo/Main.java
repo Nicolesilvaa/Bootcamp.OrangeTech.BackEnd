@@ -4,6 +4,7 @@ package edu.nicol.poo;
  * @author Nicole Silva
  * @since 15/01/2023
  * 
+ * Aplicando  conceitos de herança
  */
 
  class Main{

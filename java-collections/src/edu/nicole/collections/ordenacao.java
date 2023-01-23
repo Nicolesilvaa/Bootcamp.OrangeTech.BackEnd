@@ -3,6 +3,8 @@ package edu.nicole.collections;
 /**
  * @author Nicole Silva
  * @since 19/02/2023
+ * 
+ * Aplicando conceito de ordenação
  */
 
 import java.util.*;
