@@ -65,5 +65,11 @@
 
 - [Métodos - Calculadora](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-metodos/src/edu/nicole/metodos/calculadora.java)
 
+- [Collections - Manipulando lists](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-collections/src/edu/nicole/collections/exemploList.java)
+
+- [Collections - Ordenação](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-collections/src/edu/nicole/collections/ordenacao.java)
+
+
+
 
 
