@@ -53,7 +53,7 @@
 
  - [Controle de Fluxo e Condicionais - Fatorial](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/fatorial.java)
  
-- [Controle e Fluxo e Condicional - Inverte vetor](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/ordemInversa.java)
+- [Controle de Fluxo e Condicionais - Inverte vetor](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/ordemInversa.java)
  
 - [Controle de Fluxo e Condicionais - Maior número e média](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/java-controle-de-fluxos/src/edu/nicole/fluxo/maiorMedia.java)
 
