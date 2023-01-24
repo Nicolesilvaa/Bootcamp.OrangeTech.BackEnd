@@ -5,7 +5,7 @@ package edu.nicole.fluxo;
 
  */
 
-import java.util.Scanner; 
+import java.util.Scanner;
 
 public class maiorMedia{
 
@@ -14,9 +14,9 @@ public class maiorMedia{
      public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
-        int numero = 0;
-        int maior = 0;
-        int soma = 0;
+        double numero = 0;
+        double maior = 0;
+        double soma = 0;
         double media = 0;
         
 
@@ -32,8 +32,8 @@ public class maiorMedia{
             
         }
 
-        System.out.println("O maior número é: " + maior);
-        System.out.println("A média entre os valores é: " + media);
+        System.out.printf("O maior número é: %.1f \n", maior);
+        System.out.printf("A média entre os valores é: %.1f  ", media);
        
 
     }

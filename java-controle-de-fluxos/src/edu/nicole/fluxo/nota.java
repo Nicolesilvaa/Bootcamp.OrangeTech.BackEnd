@@ -5,7 +5,7 @@ package edu.nicole.fluxo;
 
  */
 
-import java.util.Scanner; 
+import java.util.Scanner;
 
 public class nota{
 
@@ -14,7 +14,7 @@ public class nota{
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        int nota = 0;
+        double nota = 0;
         
         System.out.println("Digite uma nota: ");
         nota = scanner.nextInt();
