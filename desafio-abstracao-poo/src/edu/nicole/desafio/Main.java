@@ -48,8 +48,13 @@ import java.time.LocalDate;
 
     Dev devFulana = new Dev();
     devFulana.setNome("Fulana");
-
+    devFulana.inscreverBootcamp(bootcamp);
     System.out.println("Conteúdos Inscritos" + devFulana.getConteudosInscritos());
+    devFulana.progredir();
+    
+    System.out.println("Conteúdos Inscritos" + devFulana.getConteudosInscritos());
+    System.out.println("Conteúdos Concluidos" + devFulana.getConteudosConcluidos());
+    System.out.println("XP"  + devFulana.calcularTotalXP());
 
 
   }
