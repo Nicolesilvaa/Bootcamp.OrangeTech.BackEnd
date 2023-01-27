@@ -1,6 +1,8 @@
 package edu.nicole.desafio;
 
+import edu.nicole.desafio.Bootcamp;
 import edu.nicole.desafio.Curso;
+import edu.nicole.desafio.Dev;
 import edu.nicole.desafio.Mentoria;
 import java.time.LocalDate;
 
@@ -36,6 +38,19 @@ import java.time.LocalDate;
     mentoria.setData(LocalDate.now()); // Atribuia a data de criação
 
     System.out.println(mentoria);
+
+    Bootcamp bootcamp = new Bootcamp();
+    bootcamp.setNome("BackEnd OrangeTech");
+    bootcamp.setDescricao("Aprendendo JAVA e suas ferramentas");
+    bootcamp.getConteudos().add(curso1);
+    bootcamp.getConteudos().add(curso2);
+    bootcamp.getConteudos().add(mentoria);
+
+    Dev devFulana = new Dev();
+    devFulana.setNome("Fulana");
+
+    System.out.println("Conteúdos Inscritos" + devFulana.getConteudosInscritos());
+
 
   }
 
