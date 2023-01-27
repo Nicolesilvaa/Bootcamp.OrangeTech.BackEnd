@@ -14,7 +14,7 @@
 
 > [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/download-de-pacotes/README.md)
 
-> [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/download-de-pacotes/src/edu/nicole/desafio2/downloadDePacotes.java)
+> [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/tree/main/desafio-abstracao-poo))
  
 ### Leitura da Gertrudes :books:
 
@@ -34,9 +34,9 @@
 
 > [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/insdustria-da-multa/src/edu/nicole/desafio5/industriaDaMulta.java)
 
-### Abstraindo conceitos de POO :warning:
+### Abstraindo conceitos de POO :shipit:
 
-> [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafio-abstracao-poo/README.md)
+> [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/tree/main/desafio-abstracao-poo)
 
 ## 
 ## Primeiras Classes :space_invader:
