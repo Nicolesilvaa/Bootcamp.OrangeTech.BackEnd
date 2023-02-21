@@ -34,6 +34,38 @@
 
 > [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/insdustria-da-multa/src/edu/nicole/desafio5/industriaDaMulta.java)
 
+### Salvando Músicas  :musical_score:
+
+> [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/salvando-musicas/README.md)
+
+> [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/salvando-musicas/src/edu/nicole/desafio6/salvandoMusica.java)
+
+### Pontos na Carteira  :no_entry_sign:
+
+> [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/pontos-na-carteira/README.md)
+
+> [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/pontos-na-carteira/src/edu/nicole/desafio7/pontosNaCarteira.java)
+
+### Imóveis Disponíveis :office:
+
+> [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/imoveis-disponiveis/README.md)
+
+> [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/imoveis-disponiveis/src/edu/nicole/desafio8/imoveisDisponiveis.java)
+
+### Dc Monalds :hamburger:
+
+> [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/dc-monalds/README.md)
+
+> [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/dc-monalds/src/edu/nicole/desafio9/dcMonalds.java)
+
+
+### Camarote do Blue Cold Ice Cubes :snowflake:
+
+> [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/camarote-do-blue-ice/README.md)
+
+> [Resolução](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/blob/main/desafios-codigo/camarote-do-blue-ice/src/edu/nicole/desafio10/camaroteDoBlue.java)
+
+
 ### Abstraindo conceitos de POO :shipit:
 
 > [Descrição](https://github.com/Nicolesilvaa/Bootcamp.OrangeTech.BackEnd/tree/main/desafio-abstracao-poo)
