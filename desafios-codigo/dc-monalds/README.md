@@ -17,12 +17,12 @@ A entrada serão os ingredientes que compõem o lanche.
 A saída deverá ser o lanche montado com as palavras que definem os ingredientes.
 ### Exemplo
 
-Entrada               
-----------------------
+#### Entrada               
+
 Pao;Presunto;Carne;Pao
 
-Saída
----------------------
+#### Saída
+
       Pao 
       Presunto
       Carne
