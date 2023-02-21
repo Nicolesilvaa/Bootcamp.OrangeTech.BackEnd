@@ -1,4 +1,4 @@
-package edu.nicole.desafio1;
+package edu.nicole.desafio8;
 import java.util.Scanner;
 
 
