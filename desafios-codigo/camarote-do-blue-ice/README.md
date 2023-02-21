@@ -1,4 +1,4 @@
-## Desafio: Camarote do Blue Cold Ice Cubes
+## Desafio: Camarote do Blue Cold Ice Cubes :snowflake:
 
 No show da famosa banda Blue Cold Ice Cubes o vocalista, Antônio Queda, escolheu todas as pessoas que estavam na posição impar da fila para entrarem no camarote. Ele fez isso em diversos shows e as pessoas foram a loucura para competirem por essas posições. Você resolveu criar um programa para saber, de acordo com o número de pessoas na fila, quantas entrariam no camarote.
 ### Entrada
